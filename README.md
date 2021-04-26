@@ -7,5 +7,6 @@ React native elements(Avatar, Card, ThemeProvider, ListItem)
 
 Navigation(Stack navigator, useFocusEffect)
 
-Icon
-FlatList
+Icon,
+FlatList,
+Picker
