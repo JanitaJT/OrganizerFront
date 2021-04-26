@@ -1,7 +1,7 @@
 # OrganizerFront
 
 Projektissa käytetyt tekniikat:
-Backend on tehty Javalla, Spring restillä ja se on julkaistu Herokuun.
+Backend on tehty Javalla, Spring  ja se on julkaistu Herokuun.
 
 React native elements(Avatar, Card, ThemeProvider, ListItem)
 
